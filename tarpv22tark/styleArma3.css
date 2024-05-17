@@ -1,0 +1,54 @@
+/*Aleksander Rogovski style*/
+#arma3 {
+    font-family: Arial, sans-serif;
+    background-color: #e1f2df;
+    border: groove #257d1a 5pt;
+    padding: 15px;
+}
+#arma3 h1, #arma3 h2 {
+    color: #2c3e50;
+}
+#arma3 ul {
+    list-style-type: none;
+    padding: 0;
+}
+#arma3 ul li {
+    margin: 5px 0;
+}
+#arma3 .titleScreen img, #arma3 .lugu img, #arma3 .gameplay img {
+    width: 20%;
+    height: auto;
+    border: ridge #257d1a 5pt;
+    border-radius: 10px;
+}
+#arma3 .titleScreen img:hover, #arma3 .lugu img:hover, #arma3 .gameplay img:hover {
+    border: ridge #c3b091 5pt;
+}
+#arma3 .links ul {
+    padding-left: 20px;
+}
+#arma3 .links ul li {
+    margin: 5px 0;
+}
+#arma3 .links ul li a {
+    color: #3498db;
+    text-decoration: none;
+}
+#arma3 .links ul li a:hover {
+    text-decoration: underline;
+}
+#arma3 .review p, #arma3 .lugu p, #arma3 .gameplay p, #arma3 .sisututvustus p {
+    text-align: justify;
+}
+#arma3 .review p:hover, #arma3 .lugu p:hover, #arma3 .gameplay p:hover, #arma3 .sisututvustus p:hover {
+    text-decoration: underline;
+}
+#arma3 iframe{
+    frameborder: 0;
+    width: 25%;
+    height: auto;
+    border: ridge #257d1a 5pt;
+}
+#arma3 iframe:hover{
+    border: ridge #c3b091 5pt;
+}
